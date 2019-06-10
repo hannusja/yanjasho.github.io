@@ -1,0 +1,40 @@
+h2 {
+    text-align: center;
+    font-family: 'Georgia', Times, serif;
+    font-weight: bold;
+}
+.jumbotron {
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.intro {
+    text-align: center;
+    margin: 0px 200px 0px 200px;
+    background-image: radial-gradient(circle, rgba(253, 218, 177, 0.897), rgba(253, 218, 177, 0.493),rgba(253, 218, 177, 0.144));
+    padding: 15px 10px 15px 10px;
+    font-family: 'Georgia', Times, serif;
+    line-height: 1.5;
+    color: rgb(71, 32, 5);
+    font-size: 18px; 
+    border-radius: 15px 50px;
+}
+.projects {
+    text-align: center;
+    margin: 10px 250px 10px 250px;
+    background-color: rgba(250, 232, 212, 0.685);
+    padding: 20px 10px 20px 10px;
+    font-family: 'Georgia', Times, serif;
+    line-height: 1.5;
+    color: rgb(71, 32, 5);
+    font-size: 18px;
+    font-weight: 600; 
+    border-radius: 15px; 
+}
+.list-group-item {
+    background-color: rgba(250, 232, 212, 0.795);
+}
+a {
+    color: rgb(156, 6, 6);
+}
