@@ -20,9 +20,9 @@ h2 {
     font-size: 18px; 
     border-radius: 15px 50px;
 }
-.projects {
+.projects, .skills, .conclusion {
     text-align: center;
-    margin: 10px 250px 10px 250px;
+    margin: 10px 50px 10px 50px;
     background-color: rgba(250, 232, 212, 0.685);
     padding: 20px 10px 20px 10px;
     font-family: 'Georgia', Times, serif;
@@ -37,4 +37,7 @@ h2 {
 }
 a {
     color: rgb(156, 6, 6);
+}
+p {
+    font-weight: normal
 }
